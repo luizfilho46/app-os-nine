@@ -53,7 +53,6 @@ export default function Book ({ navigation }) {
 }
 
 const styles = StyleSheet.create({
-
     container: {
         margin: 30,
     },
